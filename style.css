@@ -1,0 +1,12 @@
+#board {
+  width: 800px;
+  height: 800px;
+  border: blue solid 2px;
+}
+.square {
+  width: 250px;
+  height: 250px;
+  border: 1px solid black;
+  display: inline-block;
+  background-color: yellow;
+}
